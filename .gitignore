@@ -1,0 +1,6 @@
+# Ignore system & temp files
+*.pem
+*.log
+node_modules/
+.env
+
